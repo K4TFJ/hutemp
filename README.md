@@ -1,5 +1,6 @@
 
 RESUME PROJECT: Hutemp Data Logger
+
 AUTHOR: Tj Johnston, K4TFJ
 
 HARDWARE COMPONENTS:
