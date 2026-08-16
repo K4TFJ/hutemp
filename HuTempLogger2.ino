@@ -1,6 +1,6 @@
 // =========================================================================
 // RESUME PROJECT: Hutemp Data Logger
-// VERSION: 1.2.2
+// VERSION: 1.2.3
 // DATE: August 15, 2026
 // AUTHOR: Tj Johnston, K4TFJ
 // 
@@ -22,13 +22,14 @@
 // User will manually adjust final logging interval configuration on Monday.
 // =========================================================================
 
-#include <SPI.h> 
-#include <SD.h> 
-#include <DHT.h> 
-#include <RTClib.h> 
-#include <Wire.h> 
-#include "SSD1306Ascii.h" 
-#include "SSD1306AsciiWire.h" 
+//#include <SPI.h>               // Core
+#include <SD.h>                // Core
+//#include <Wire.h>              // Core
+
+#include <DHT.h>               // DHT sensor library by Adafruit (v1.4.7)
+#include <RTClib.h>            // RTClib by Adafruit (v2.1.4)
+//#include "SSD1306Ascii.h"      // SSD1306Ascii by Bill Greiman (v1.3.5)
+#include "SSD1306AsciiWire.h"  // SSD1306Ascii by Bill Greiman (v1.3.5)
 
 // --- LOGGING INTERVAL CONFIGURATION --- 
 #define LOG_INTERVAL_SECONDS 600 
