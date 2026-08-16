@@ -20,4 +20,5 @@ Standard integer baseline is stable. Current breadboard jumper wire links
 are suspect; final deployment will be permanently soldered on a custom PCB. 
 User will manually adjust final logging interval configuration on Monday.
 
-
+COMMENTS:
+Asterisks to right of LIVE DATA indicates issue with SD card
