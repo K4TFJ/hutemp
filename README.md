@@ -1,4 +1,4 @@
-=========================================================================
+
 RESUME PROJECT: Hutemp Data Logger
 AUTHOR: Tj Johnston, K4TFJ
 
@@ -18,4 +18,4 @@ STATUS:
 Standard integer baseline is stable. Current breadboard jumper wire links 
 are suspect; final deployment will be permanently soldered on a custom PCB. 
 User will manually adjust final logging interval configuration on Monday.
-=========================================================================
+
