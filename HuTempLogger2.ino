@@ -1,6 +1,6 @@
 // =========================================================================
 // RESUME PROJECT: Hutemp Data Logger
-// VERSION: 1.2.3
+// VERSION: 1.2.4
 // DATE: August 15, 2026
 // AUTHOR: Tj Johnston, K4TFJ
 // 
